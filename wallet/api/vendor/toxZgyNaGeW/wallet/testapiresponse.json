@@ -1,0 +1,142 @@
+[
+  {
+    "id": "5e6f42a6-9df4-479e-b72f-3d8bdeac90dc",
+    "vendorId": "toxZgyNaGeW",
+    "vendorName": "Translink",
+    "name": "Child Metro / Glider Monthly",
+    "purchased": "2025-05-18 18:36:56Z",
+    "ttl": 31,
+    "ttlUnits": "Days",
+    "ticketType": "Standard",
+    "roundDownExpiry": null,
+    "expiry": "2025-06-18 19:21:56Z",
+    "subtitle": null,
+    "originName": null,
+    "destinationName": null,
+    "description": null,
+    "productId": "dtbpaTqEkHS",
+    "groupId": null,
+    "autoActivate": "2025-05-18 18:36:56Z",
+    "activated": "2025-05-18 18:36:56Z",
+    "timeout": "2026-05-18 18:36:56Z",
+    "groupIndex": null,
+    "flashPassType": "None",
+    "flashPassDetails": {
+      "iv": "ScN8SAO8u9n754bf1eDPIQ==",
+      "encryptedText": "4ZEdwG+vW90Sa7hjP6S1qzk4/2uHDAaRvvlLuvfZGhOwLeFWWFM5onGw0+RyK3pu8CZ3+ydw+79KlsvlPFn61A=="
+    },
+    "geographicAreaId": "1bde7211-a41b-4ebb-8734-47e38ed99e44",
+    "geographicAreaName": null,
+    "barcodes": null,
+    "passNumber": null,
+    "vendorSpecificData": {
+      "IsWeekendFreedom": false
+    },
+    "ticketDisplayOrder": 0
+  },
+  {
+    "id": "403c7c2e-9936-4465-bc8c-e4a57a2055ea",
+    "vendorId": "toxZgyNaGeW",
+    "vendorName": "Translink",
+    "name": "Child Metro / Glider Single",
+    "purchased": "2025-05-18 18:42:45Z",
+    "ttl": 31,
+    "ttlUnits": "Days",
+    "ticketType": "Standard",
+    "roundDownExpiry": null,
+    "expiry": "2025-05-18 19:27:45Z",
+    "subtitle": null,
+    "originName": null,
+    "destinationName": null,
+    "description": null,
+    "productId": "dtbpaTqEkHS",
+    "groupId": null,
+    "autoActivate": "2025-05-18 18:42:45Z",
+    "activated": "2025-05-18 18:42:45Z",
+    "timeout": "2026-05-18 18:42:45Z",
+    "groupIndex": null,
+    "flashPassType": "None",
+    "flashPassDetails": {
+      "iv": "waPSfl9uhGEbNNu1v8YHmQ==",
+      "encryptedText": "/UP7XKyifVJfKF2EYfBI1wwupxriUlk2jGXgAdrTsV/SN3jD9en0frexqQ3HKs4eq3MpcPx1wTzISoJb6Q732w=="
+    },
+    "geographicAreaId": "1bde7211-a41b-4ebb-8734-47e38ed99e44",
+    "geographicAreaName": null,
+    "barcodes": null,
+    "passNumber": null,
+    "vendorSpecificData": {
+      "IsWeekendFreedom": false
+    },
+    "ticketDisplayOrder": 0
+  },
+  {
+    "id": "76e29688-87a4-4d93-b848-527f6226bbba",
+    "vendorId": "toxZgyNaGeW",
+    "vendorName": "Translink",
+    "name": "Child Metro / Glider Day",
+    "purchased": "2025-05-18 18:44:48Z",
+    "ttl": 1440,
+    "ttlUnits": "Minutes",
+    "ticketType": "Standard",
+    "roundDownExpiry": "0400",
+    "expiry": "2025-05-19 03:00:00Z",
+    "subtitle": null,
+    "originName": null,
+    "destinationName": null,
+    "description": null,
+    "productId": "BvYGaRNSpLm",
+    "groupId": null,
+    "autoActivate": "2025-05-18 18:44:48Z",
+    "activated": "2025-05-18 18:44:48Z",
+    "timeout": "2026-05-18 18:44:48Z",
+    "groupIndex": null,
+    "flashPassType": "None",
+    "flashPassDetails": {
+      "iv": "Tuq2HgM0Waa+albVtu8/fQ==",
+      "encryptedText": "XGy/cvwu1dBX1cdM4XYujiT3qPZkL19f7JcrgK9iMlv43WtrcrTaMpwg8Lhur1/LBXyTjRJqcG8sydCQAPo9OA=="
+    },
+    "geographicAreaId": "1bde7211-a41b-4ebb-8734-47e38ed99e44",
+    "geographicAreaName": null,
+    "barcodes": null,
+    "passNumber": null,
+    "vendorSpecificData": {
+      "IsWeekendFreedom": false
+    },
+    "ticketDisplayOrder": 0
+  },
+  {
+    "id": "155c0fd6-9017-4b47-9814-2cfe3944eca4",
+    "vendorId": "toxZgyNaGeW",
+    "vendorName": "Translink",
+    "name": "Child Metro / Glider Day",
+    "purchased": "2025-05-18 18:48:42Z",
+    "ttl": 1440,
+    "ttlUnits": "Minutes",
+    "ticketType": "Standard",
+    "roundDownExpiry": "0400",
+    "expiry": "2025-05-19 03:00:00Z",
+    "subtitle": null,
+    "originName": null,
+    "destinationName": null,
+    "description": null,
+    "productId": "BvYGaRNSpLm",
+    "groupId": null,
+    "autoActivate": "2025-05-18 18:48:42Z",
+    "activated": "2025-05-18 18:48:42Z",
+    "timeout": "2026-05-18 18:48:42Z",
+    "groupIndex": null,
+    "flashPassType": "None",
+    "flashPassDetails": {
+      "iv": "pp16t55Eyb74rLYFByRTUQ==",
+      "encryptedText": "X+O1ovhXKtk4igTx3TfQbGqiz6dwmCjqhEu1toRR8Ace1wXil2m+PljO8zSCKz5KWD4m8e14UULwOndvs26j5g=="
+    },
+    "geographicAreaId": "1bde7211-a41b-4ebb-8734-47e38ed99e44",
+    "geographicAreaName": null,
+    "barcodes": null,
+    "passNumber": null,
+    "vendorSpecificData": {
+      "IsWeekendFreedom": false
+    },
+    "ticketDisplayOrder": 0
+  }
+]
