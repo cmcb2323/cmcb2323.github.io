@@ -62,7 +62,7 @@
     },
     "geographicAreaId": "1bde7211-a41b-4ebb-8734-47e38ed99e44",
     "geographicAreaName": null,
-    "barcodes": 295828885,
+    "barcodes": null,
     "passNumber": null,
     "vendorSpecificData": {
       "IsWeekendFreedom": false
