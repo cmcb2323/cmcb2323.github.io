@@ -144,7 +144,7 @@
     "vendorId": "toxZgyNaGeW",
     "vendorName": "Translink",
     "name": "Adult Rail 1 Day - Off Peak",
-    "purchased": "2025-05-18 18:46:44Z",
+    "purchased": "2025-07-18 18:46:44Z",
     "ttl": 24,
     "ttlUnits": "Hours",
     "ticketType": "Standard",
@@ -158,7 +158,7 @@
     "groupId": "e8ae0083-1924-4a55-b47a-5b3ffcca9e34",
     "autoActivate": "",
 "activated": "2025-07-29 03:39:02Z",
-    "timeout": "2025-06-19 03:00:00Z",
+    "timeout": "2026-06-19 03:00:00Z",
     "groupIndex": 2,
     "flashPassType": "None",
     "flashPassDetails": {
