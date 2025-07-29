@@ -46,8 +46,8 @@
     "roundDownExpiry": null,
     "expiry": "2025-07-30 05:42:45Z",
     "subtitle": null,
-    "originName": null,
-    "destinationName": null,
+    "originName": Antrim,
+    "destinationName": Lisburn,
     "description": null,
     "productId": "jrLzbQzVlu",
     "groupId": null,
@@ -62,7 +62,7 @@
     },
     "geographicAreaId": "1bde7211-a41b-4ebb-8734-47e38ed99e44",
     "geographicAreaName": null,
-    "barcodes": null,
+    "barcodes": 295828885,
     "passNumber": null,
     "vendorSpecificData": {
       "IsWeekendFreedom": false
