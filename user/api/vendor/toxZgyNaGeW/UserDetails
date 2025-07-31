@@ -2,7 +2,7 @@
   "name": "Cameron McB",
   "email": "camerondeveloper@gmail.com",
   "phoneNumber": "07000000000",
-  "hasBypassPaymentAuthorisation": true,
+  "hasBypassPaymentAuthorisation": false,
   "isChild": false,
   "passes": []
 }
