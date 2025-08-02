@@ -241,7 +241,7 @@
       {
         "from": "2025-07-29 20:45:00Z",
         "to": "2025-08-03 20:46:00Z",
-        "barcodeData": ""
+        "barcodeData": null
       }
     ],
     "passNumber": null,
